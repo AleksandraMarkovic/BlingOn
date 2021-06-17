@@ -3,6 +3,8 @@ Tema projekta - Prodavnica prstenja
 
 Projekat je odrađen kao prodavnica prstenja. Svaki prsten mora imati svoj brend i veličinu koju može imati jednu ili više. Ulogovani korisnici mogu napraviti porudžbinu i poručiti proizvode u željenim veličinama i količinama.
 
+
+
 Funkcionalnosti
 
 Funkcionalnosti na sajtu odrađene su na osnovu uloge korisnika. 
@@ -11,10 +13,14 @@ Ulogovani korisnici mogu poručiti proizvod, oceniti ocenom 1 do 5, otkazati/obr
 Admin može vršiti insert, update i delete svih tabela. U order tabeli može ažurirati samo datum dostave (kolona DeliveredAt).
 Logovanje je odrađeno sa tokenom koji ima ograničeno trajanje (podešen je na 120 sekundi).
 
+
+
 Logovanje
 
 Admin: markovic@gmail.com, sifra123
 Korisnik: jelena@gmail.com sifra123
+
+
 
 Struktura projekta
 
