@@ -27,3 +27,8 @@ Korisnik: jelena@gmail.com, sifra123
 ## Struktura projekta
 
 Projekat je izdeljen u zasebne celine: Domenski sloj, DataAccess sloj, Application sloj, Implementation sloj i API. 
+
+
+## Dijagram baze
+
+![alt text](https://user-images.githubusercontent.com/51022026/122390290-1de99200-cf72-11eb-8871-458be77271d4.png)
