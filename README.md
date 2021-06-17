@@ -12,6 +12,7 @@ Neautorizovani korisnici mogu pretraživati proizvode (dohvataće se samo aktivn
 Ulogovani korisnici mogu poručiti proizvod, oceniti ocenom 1 do 5, otkazati/obrisati svoje porudžbine i ažurirati i obrisati svoj nalog.
 Admin može vršiti insert, update i delete svih tabela. U order tabeli može ažurirati samo datum dostave (kolona DeliveredAt).
 Logovanje je odrađeno sa tokenom koji ima ograničeno trajanje (podešen je na 120 sekundi).
+Takođe postoji tabela UseCaseLogs gde se čuva koji korisnik je izvršio koju komandu i admin je može pretraživati.
 
 
 
