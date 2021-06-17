@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\bin\Debug\net5.0\blingOn.Domain.deps.json
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\bin\Debug\net5.0\blingOn.Domain.dll
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\bin\Debug\net5.0\ref\blingOn.Domain.dll
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\bin\Debug\net5.0\blingOn.Domain.pdb
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\blingOn.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\blingOn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\blingOn.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\blingOn.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\blingOn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\blingOn.Domain.dll
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\ref\blingOn.Domain.dll
+C:\Users\Admin\Desktop\projekat_asp\blingOn\blingOn.Domain\obj\Debug\net5.0\blingOn.Domain.pdb
