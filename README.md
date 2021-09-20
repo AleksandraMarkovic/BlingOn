@@ -7,7 +7,7 @@ Projekat je odrađen kao prodavnica prstenja. Svaki prsten mora imati svoj brend
 
 ## Funkcionalnosti
 
-Funkcionalnosti na sajtu odrađene su na osnovu uloge korisnika. 
+Funkcionalnosti u projektu odrađene su na osnovu uloge korisnika. 
 **Neautorizovani korisnici** mogu pretraživati proizvode i brendove (dohvataće se samo aktivni tj. oni kojima je DeleteAt = null) i registrovati se.
 **Ulogovani korisnici** mogu poručiti proizvod, oceniti ocenom 1 do 5, otkazati/obrisati svoje porudžbine i ažurirati i obrisati svoj nalog.
 **Admin** može vršiti insert, update i delete svih tabela. Tabelu korisnici može samo admin pretraživati. U order tabeli može ažurirati samo datum dostave (kolona DeliveredAt).
