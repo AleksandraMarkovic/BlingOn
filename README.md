@@ -1,7 +1,7 @@
 # blingOn
 ## Theme - Ring store
 
-The project was conceived as a ring store. Each ring must have its own brand and size (it can have one or more sizes). Logged-in users can place an order and order products in the desired sizes and quantities.
+The project was designed as a ring store. Each ring must have its own brand and size (it can have one or more sizes). Logged-in users can place an order and order products in the desired sizes and quantities.
 
 
 
